@@ -28,6 +28,7 @@ not to specify the number of arguments of the function.
 - Fourier transform
 - Fast fourier transform
 - Brent method
+- Automatic differenciation
 
 ## Liner algebra
 
