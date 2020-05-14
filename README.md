@@ -1,6 +1,22 @@
 # Numerical_calculation
 My library of numerical calculation
 
+## In my library...
+- I often use the *inline expansion* to optimize compiler and improve the time performance of culculation.
+
+- I often use the *template*,:
+```
+template <typename Func>
+```
+to define a function that takes any types of function as an argument.
+
+- I often use the *variadic templates*,;
+```
+template <typename... Args>
+typename function(Args... args){};
+```
+not to specify the number of arguments of the function.
+
 ## Algebra
 
 - Gauss-Legendre integration
