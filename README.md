@@ -30,7 +30,7 @@ not to specify the number of arguments of the function.
 - Brent method
 - Automatic differenciation
 
-## Liner algebra
+## Linear algebra
 
 - LU decomposition
 - Gauss elimination
