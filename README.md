@@ -2,7 +2,7 @@
 My library of numerical calculation
 
 ## In my library...
-- I often use the *inline expansion* to optimize compiler and improve the time performance of culculation.
+- I often use the *inline expansion* to optimize the compiler and improve the time performance of culculation.
 
 - I often use the *template*,:
 ```
