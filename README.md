@@ -1,9 +1,11 @@
 # Numerical_calculation
-My library of numerical calculation
+My library of numerical calculation coded in 2017.
 
 ## In my library...
 - I often use the *inline expansion* to optimize the compiler and improve the time performance of culculation.
-
+```
+inline typename func(){};
+```
 - I often use the *template*,:
 ```
 template <typename Func>
